@@ -13,8 +13,27 @@ With over **30 years of experience** in the Information Technology sector, I hav
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **Data Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
 | **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
+### 💼 Business Strategy & Management
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Management** | ![Project Management](https://img.shields.io/badge/Project_Management-00599C?style=for-the-badge&logo=pmp&logoColor=white) 
 | **Strategic Governance** | ![Compliance](https://img.shields.io/badge/Compliance-LGPD%20%7C%20SOX%20%7C%20ISO-blue?style=for-the-badge) ![Strategy](https://img.shields.io/badge/Strategy-CIO%20%7C%20IT%20Governance-darkgreen?style=for-the-badge) |
 
+
+### 🎓 Education & Continuous Learning
+
+| Institution | Program | Status |
+| :--- | :--- | :--- |
+| **TripleTen** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Bootcamp-7B61FF?style=flat-square&logo=python&logoColor=white) | **In Progress (2026)** |
+| **FIAP** | ![MBA](https://img.shields.io/badge/MBA-IT_Management-00599C?style=flat-square&logo=microsoft-academic&logoColor=white) | **Completed** |
+
+### 🏛️ Professional Foundations & Legacy Certifications
+| Category | Credentials |
+| :--- | :--- |
+| **Microsoft** | ![MCSE](https://img.shields.io/badge/MCSE-Microsoft_Certified_Systems_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![MCSA Messaging](https://img.shields.io/badge/MCSA-Messaging_Specialist-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **Citrix** | ![CCA](https://img.shields.io/badge/CCA-Citrix_Certified_Administrator-ED1C24?style=for-the-badge&logo=citrix&logoColor=white) |
 
 
 ---
