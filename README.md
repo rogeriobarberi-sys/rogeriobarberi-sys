@@ -52,7 +52,7 @@ An Exploratory Data Analysis (EDA) project focused on global gaming market trend
 #### 🚜 [Vehicles Environment](https://github.com/rogeriobarberi-sys/vehicles_env)
 A dedicated environment for vehicle data processing and modeling. This project serves as a technical sandbox for testing **Data Engineering** workflows and refining Python-based automation scripts.
 
-#### 📈 [Marketing Strategy & Unit Economics](https://github.com/rogeriobarberi-sys/marketing-analysis-yafisha)
+#### 📈 [Marketing Strategy & Unit Economics](https://github.com/rogeriobarberi-sys/data-driven-business-optimization)
 A deep dive into **Unit Economics** for the Y.Afisha platform. This project calculates **LTV, CAC, and Net ROMI** through cohort analysis to determine the exact payback period and optimize marketing spend across multiple acquisition channels.
 
 ---
