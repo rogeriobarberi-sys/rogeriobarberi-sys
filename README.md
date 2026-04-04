@@ -28,6 +28,7 @@ With over **30 years of experience** in the Information Technology sector, I hav
 | :--- | :--- | :--- |
 | **TripleTen** | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Bootcamp-7B61FF?style=flat-square&logo=python&logoColor=white) | **In Progress (2026)** |
 | **FIAP** | ![MBA](https://img.shields.io/badge/MBA-IT_Management-00599C?style=flat-square&logo=microsoft-academic&logoColor=white) | **Completed** |
+| **UNIP** | ![Business Administration](https://img.shields.io/badge/Business_Admin-Systems_Analysis_Emphasis-darkgreen?style=flat-square&logo=google-analytics&logoColor=white) | **Completed** |
 
 ### 🏛️ Professional Foundations & Legacy Certifications
 | Category | Credentials |
