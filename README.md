@@ -61,16 +61,13 @@ An Exploratory Data Analysis (EDA) project focused on global gaming market trend
 ![Status: Sandbox](https://img.shields.io/badge/Status-Technical_Sandbox-orange?style=flat-square)
 A dedicated environment for vehicle data processing and modeling. This project serves as a technical sandbox for testing **Data Engineering** workflows and refining Python-based automation scripts.
 
-#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
-![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
-A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
-
 ---
 
 ### 🚀 AI-Assisted Development (Vibe Coding)
 
-#### [meuatelier](https://github.com/rogeriobarberi-sys/meuatelier)
-[Status: Production / Live] A custom application built to manage art studio workflows. 
+#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
+![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
+A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
 - **Tech:** Developed using **Vibe Coding** methodologies (Natural Language to Code).
 - **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
 - **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
