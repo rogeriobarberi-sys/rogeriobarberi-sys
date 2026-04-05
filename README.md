@@ -41,27 +41,36 @@ With over **30 years of experience** in the Information Technology sector, I hav
 
 ### 🚀 Featured Projects
 
+#### 📊 [E-commerce A/B Test Analysis](https://github.com/rogeriobarberi-sys/ecommerce-ab-test-analysis)
+![Status: Certified](https://img.shields.io/badge/Status-Certified_Analysis-success?style=flat-square)
+A rigorous statistical evaluation of user behavior and conversion optimization. This project applies **Z-Tests** and **Mann-Whitney U** methodologies to isolate genuine performance lifts from statistical noise, ensuring data integrity through advanced anomaly filtering and percentile-based sanitization.
+
+#### 📈 [Marketing Strategy & Unit Economics](https://github.com/rogeriobarberi-sys/data-driven-business-optimization)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
+A deep dive into **Unit Economics** for the Y.Afisha platform. This project calculates **LTV, CAC, and Net ROMI** through cohort analysis to determine the exact payback period and optimize marketing spend across multiple acquisition channels.
+
 #### 🚕 [Predictive Taxi Insights](https://github.com/rogeriobarberi-sys/predictive-taxi-insights)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 A comprehensive Data Analysis project using **Python** to extract actionable insights from urban transport datasets. Focusing on data cleaning, exploratory analysis (EDA), and trend forecasting.
 
-#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
-A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
-
 #### 🎮 [Video Game Sales Analysis](https://github.com/rogeriobarberi-sys/video-game-sales-analysis)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 An Exploratory Data Analysis (EDA) project focused on global gaming market trends. Utilizing **Pandas** and **Matplotlib** to identify consumer behavior patterns and historical sales performance.
 
 #### 🚜 [Vehicles Environment](https://github.com/rogeriobarberi-sys/vehicles_env)
+![Status: Sandbox](https://img.shields.io/badge/Status-Technical_Sandbox-orange?style=flat-square)
 A dedicated environment for vehicle data processing and modeling. This project serves as a technical sandbox for testing **Data Engineering** workflows and refining Python-based automation scripts.
 
-#### 📈 [Marketing Strategy & Unit Economics](https://github.com/rogeriobarberi-sys/data-driven-business-optimization)
-A deep dive into **Unit Economics** for the Y.Afisha platform. This project calculates **LTV, CAC, and Net ROMI** through cohort analysis to determine the exact payback period and optimize marketing spend across multiple acquisition channels.
+#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
+![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
+A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
 
 ---
 
 ### 🚀 AI-Assisted Development (Vibe Coding)
 
 #### [meuatelier](https://github.com/rogeriobarberi-sys/meuatelier)
-A custom application built to manage art studio workflows. 
+[Status: Production / Live] A custom application built to manage art studio workflows. 
 - **Tech:** Developed using **Vibe Coding** methodologies (Natural Language to Code).
 - **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
 - **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
