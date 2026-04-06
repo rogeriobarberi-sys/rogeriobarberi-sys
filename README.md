@@ -67,7 +67,7 @@ A dedicated environment for vehicle data processing and modeling. This project s
 
 ---
 
-### 🚀 AI-Assisted Development (Vibe Coding)
+### 🚀 AI-Assisted Development
 
 #### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
 ![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
