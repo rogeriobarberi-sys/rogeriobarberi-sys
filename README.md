@@ -1,6 +1,6 @@
 # Hi there, I'm Rogério Barberi 👋
 
-### **CIO | IT Strategist | Data Engineering & Analytics Student**
+### **IT Strategist | Data Engineering & Analytics Student**
 
 With over **30 years of experience** in the Information Technology sector, I have transitioned from founding companies to leading large-scale IT Governance, Compliance (LGPD, SOX, ISO), and Strategic Operations. Currently, I am merging my business leadership background with a deep dive into **Data Science and Python automation.**
 
