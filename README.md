@@ -45,6 +45,10 @@ With over **30 years of experience** in the Information Technology sector, I hav
 ![Status: Certified](https://img.shields.io/badge/Status-Certified_Analysis-success?style=flat-square)
 A rigorous statistical evaluation of user behavior and conversion optimization. This project applies **Z-Tests** and **Mann-Whitney U** methodologies to isolate genuine performance lifts from statistical noise, ensuring data integrity through advanced anomaly filtering and percentile-based sanitization.
 
+#### 📡 [Telecom Revenue Statistical Analysis](https://github.com/rogeriobarberi-sys/telecom-revenue-analysis)
+![Status: Certified](https://img.shields.io/badge/Status-Certified_Analysis-success?style=flat-square)
+A data-driven consultancy project for Megaline Telecom. This analysis uses **Welch’s T-Tests** to compare revenue streams between prepaid plans, identifying how overage volatility in low-cost plans compares to the stability of premium subscriptions.
+
 #### 📈 [Marketing Strategy & Unit Economics](https://github.com/rogeriobarberi-sys/data-driven-business-optimization)
 ![Status: Complete](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
 A deep dive into **Unit Economics** for the Y.Afisha platform. This project calculates **LTV, CAC, and Net ROMI** through cohort analysis to determine the exact payback period and optimize marketing spend across multiple acquisition channels.
