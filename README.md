@@ -41,6 +41,9 @@ With over **30 years of experience** in the Information Technology sector, I hav
 
 ### 🚀 Featured Projects
 
+#### 🤖 **[LA Robotic Coffee: Market Analysis & Business Intelligence](https://github.com/rogeriobarberi-sys/la-robotic-coffee-market-analysis)**  
+![Status](https://img.shields.io/badge/Status-Certified_Analysis-brightgreen) A strategic feasibility study using Python and GIS data to validate a robot-operated coffee shop investment in Los Angeles. This analysis identifies a "Blue Ocean" opportunity in high-density corridors, optimizing operational efficiency with a standardized 20-40 seat model to minimize fixed real estate costs.
+
 #### 📊 [E-commerce A/B Test Analysis](https://github.com/rogeriobarberi-sys/ecommerce-ab-test-analysis)
 ![Status: Certified](https://img.shields.io/badge/Status-Certified_Analysis-success?style=flat-square)
 A rigorous statistical evaluation of user behavior and conversion optimization. This project applies **Z-Tests** and **Mann-Whitney U** methodologies to isolate genuine performance lifts from statistical noise, ensuring data integrity through advanced anomaly filtering and percentile-based sanitization.
