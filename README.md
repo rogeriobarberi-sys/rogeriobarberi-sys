@@ -1,8 +1,10 @@
 # Hi there, I'm Rogério Barberi 👋
 
-### ** Data analyst | Data IT Strategist  **
+### ** Data analyst | Data IT Strategist | Business Inteligence **
 
-With over **30 years of experience** in the Information Technology sector, I have transitioned from founding companies to leading large-scale IT Governance, Compliance (LGPD, SOX, ISO), and Strategic Operations. Currently, I am merging my business leadership background with a deep dive into **Data Science and Python automation.**
+Driving strategic business outcomes through a deeply **data-driven** approach built upon 30 years of IT leadership. Throughout my career as an IT Director and Manager, I have engineered structured data indicators, optimized large-scale relational databases, and utilized data analytics to streamline business operations and performance metrics.
+
+Today, I leverage the modern data stack—using **Python automation, SQL, and Data Science**—to transform raw datasets into advanced business intelligence, predictive models, and strategic tools for pricing and market optimization.
 
 ---
 
