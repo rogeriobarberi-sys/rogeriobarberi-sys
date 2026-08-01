@@ -80,11 +80,20 @@ A specialized management application for Sacred Art workflows. Developed using *
 - **Tech:** Developed using **AI assisted** methodologies (Natural Language to Code).
 - **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
 - **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
+
+#### 🖥️ Network Inventory & Multi-Tenant Monitoring System
+![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
+A distributed network inventory tool built for an IT consultancy managing dozens of client environments. A lightweight Python agent deployed on each client's local server performs network discovery and securely uploads results to isolated Azure Blob Storage containers (SAS-token scoped, write-only access per client), which a central Flask dashboard consolidates into real-time status monitoring and monthly reporting.
+- **Tech:** Python, Flask, Pandas, Scapy, Azure Blob Storage (REST API), Windows Task Scheduler automation.
+- **Engineering highlight:** Built a self-healing installer and agent runtime compatible across a 15-year span of Windows Server versions (2008 R2 through 2012, plus Windows 10/11 workstations) — transparently handling legacy TLS negotiation, PowerShell version gaps, Python runtime constraints, and Windows networking edge cases (multi-interface routing conflicts).
+- **Security model:** Per-client write-only access tokens ensure no client can ever access another client's data, even if a single token is compromised.
+- **Purpose:** Developed using **AI-assisted** methodologies, iterating live against real production servers to progressively harden the installer against real-world environment variance.
+
 ---
 
 ### 📈 Current Learning Path
-* **Advanced Data Analysis:** Mastering ETL processes and predictive modeling.
-* **Automation:** Building Python scripts to optimize IT infrastructure workflows.
+* **Cloud & Infrastructure Automation:** Deepening hands-on experience with Azure (Blob Storage, REST APIs) and cross-platform Windows automation.
+* **Applied ML:** Moving from analysis notebooks to production-grade predictive models and monitoring pipelines.
 
 ---
 
