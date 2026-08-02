@@ -77,12 +77,14 @@ A dedicated environment for vehicle data processing and modeling. This project s
 #### 🎬 AI-Powered Media Production Pipeline
 ![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
 A local-first desktop application that orchestrates a multi-stage media production workflow, unifying several AI services into a single resumable pipeline. Built with **Streamlit** and a modular Python architecture where every stage persists its state to disk — so long-running work can be paused, resumed, and recovered across sessions without loss.
+- **Extensible Content-Type Architecture:** A pluggable **strategy pattern** decouples narrative structure from the production pipeline — new content formats (e.g. topic-driven explainers, single-arc storytelling) are added as self-contained modules without touching the downstream stages, which remain fully format-agnostic. The same separation drives swappable visual-style presets.
 - **Architecture:** Modular multi-tab application with disk-persisted state and a **shared-code / separate-data** model — Git-versioned codebase, cloud-synced work folders — engineered for multi-user collaboration with near-zero conflict risk. Per-machine configuration remembers paths and credentials locally, never in the repository.
 - **AI Orchestration:** Coordinates large-language-model APIs (**Anthropic Claude**) for structured, schema-constrained text generation and text-to-speech APIs (**ElevenLabs**) with character-level timing data, alongside a local **ComfyUI / FLUX** image-generation backend running on on-demand cloud GPU (**RunPod**).
 - **Media Synchronization Engine:** Reconstructs frame-accurate subtitle timing from character-level API alignment, chunks long-form text on sentence boundaries for reliable synthesis, stitches multi-segment audio into a single clean track, and emits an editor-ready timeline (**XML**) where every visual asset lands on the exact frame its narration begins.
 - **Engineering highlights:** Resumable batch operations that regenerate only missing assets; graceful degradation with clear, actionable error states; a self-contained media toolchain (bundled **ffmpeg**) requiring no manual setup; and a one-click auto-updater built for non-technical collaborators.
 - **Tech:** Python, Streamlit, REST API integration, ffmpeg, structured JSON pipelines, Git-based deployment.
 - **Purpose:** Built using **AI-assisted** methodologies (natural language to code), iterating live against real production runs to progressively harden the pipeline against real-world variance.
+
 
 #### 🖥️ Network Inventory & Multi-Tenant Monitoring System
 ![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
