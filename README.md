@@ -85,6 +85,20 @@ A local-first desktop application that orchestrates a multi-stage media producti
 - **Tech:** Python, Streamlit, REST API integration, ffmpeg, structured JSON pipelines, Git-based deployment.
 - **Purpose:** Built using **AI-assisted** methodologies (natural language to code), iterating live against real production runs to progressively harden the pipeline against real-world variance.
 
+#### 📜 [Scriptorium — AI-Powered Social Media Generator](https://github.com/rogeriobarberi-sys/scriptorium)
+
+[![Status: Active Development](https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square)](https://github.com/rogeriobarberi-sys/scriptorium)
+[![Version](https://img.shields.io/badge/Version-0.4.0-green?style=flat-square)](https://github.com/rogeriobarberi-sys/scriptorium/blob/main/CHANGELOG.md)
+
+Named after the medieval manuscript workshop, Scriptorium is a multi-company Instagram content generator with continuous learning. Uses **Claude API** with web search to research trends, generate brand-aligned posts using professional copywriting frameworks (AIDA, PAS, BAB, Storytelling), and render them in six distinct visual templates — improving with every human correction toward fully autonomous publishing.
+
+- **Multi-tenant architecture:** Independent brand guides, color palettes, tone rules, and learning histories per company. Currently serving [Dracones IT](https://dracones.com.br) and [Amplexus Telecom](https://amplexus.com.br), extensible to any number of brands.
+- **AI Strategist:** Researches industry trends, news, and seasonal dates via web search to proactively suggest weekly content themes with urgency levels and rationale.
+- **Copywriting engine:** Six copywriting frameworks auto-selected by post type, with rotating hook formulas, Instagram-specific rules, and B2B tone calibration.
+- **Continuous learning:** Every correction is persisted and injected into future prompts, creating a compounding feedback loop that reduces human intervention over time.
+- **Visual templates:** Six professional layouts (Clean, Bold, Data, Quote, Editorial, Minimal) with intelligent number extraction and brand-consistent rendering.
+- **Editorial calendar:** Batch generation with per-item approval workflow (pending → generated → approved).
+- **Tech:** React, Vite, Claude API (Anthropic) with web search, CSS-in-JS, localStorage persistence.
 
 #### 🖥️ Network Inventory & Multi-Tenant Monitoring System
 ![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
