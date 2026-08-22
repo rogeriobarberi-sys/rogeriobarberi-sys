@@ -115,7 +115,15 @@ A specialized management application for Sacred Art workflows. Developed using *
 - **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
 - **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
 
+#### 🟢 [Hosts.Green Integration Monitor](https://github.com/rogeriobarberi-sys/hostsgreen-monitor)
 
+[![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)](https://github.com/rogeriobarberi-sys/hostsgreen-monitor)
+A serverless auditing automation that monitors **DeskManager integration health** across all hosts in the Hosts.Green monitoring platform. Runs monthly via GitHub Actions, queries the Hosts.Green API to detect integrations that were configured but later disabled (the "irregular" state), and conditionally sends a structured HTML alert via Office 365 SMTP — automatically opening a helpdesk ticket for remediation.
+
+- **Tech:** Python, GitHub Actions (scheduled workflow), Office 365 SMTP, REST API integration.
+- **Architecture:** Zero-infrastructure — runs entirely on GitHub Actions with secrets-managed credentials. No server, no database, no dependencies beyond Python's standard library.
+- **Engineering highlight:** Conditional notification logic ensures zero noise — the workflow exits silently when all integrations are healthy, and only triggers an email (and therefore a helpdesk ticket) when actionable irregularities are detected.
+- **Purpose:** Developed using **AI-assisted** methodologies to close a visibility gap in multi-client IT operations, ensuring no DeskManager integration silently falls out of compliance.
 ---
 
 ### 📈 Current Learning Path
