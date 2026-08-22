@@ -108,13 +108,6 @@ A distributed network inventory tool built for an IT consultancy managing dozens
 - **Security model:** Per-client write-only access tokens ensure no client can ever access another client's data, even if a single token is compromised.
 - **Purpose:** Developed using **AI-assisted** methodologies, iterating live against real production servers to progressively harden the installer against real-world environment variance.
 
-#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
-![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
-A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
-- **Tech:** Developed using **AI assisted** methodologies (Natural Language to Code).
-- **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
-- **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
-
 #### 🟢 [Hosts.Green Integration Monitor](https://github.com/rogeriobarberi-sys/hostsgreen-monitor)
 
 [![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)](https://github.com/rogeriobarberi-sys/hostsgreen-monitor)
@@ -124,6 +117,14 @@ A serverless auditing automation that monitors **DeskManager integration health*
 - **Architecture:** Zero-infrastructure — runs entirely on GitHub Actions with secrets-managed credentials. No server, no database, no dependencies beyond Python's standard library.
 - **Engineering highlight:** Conditional notification logic ensures zero noise — the workflow exits silently when all integrations are healthy, and only triggers an email (and therefore a helpdesk ticket) when actionable irregularities are detected.
 - **Purpose:** Developed using **AI-assisted** methodologies to close a visibility gap in multi-client IT operations, ensuring no DeskManager integration silently falls out of compliance.
+
+#### 🎨 [MeuAtelier - AI Studio Management](https://github.com/rogeriobarberi-sys/meuatelier)
+![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
+A specialized management application for Sacred Art workflows. Developed using **Vibe Coding** methodologies, demonstrating how AI-assisted engineering can rapidly bridge domain expertise and functional software solutions.
+- **Tech:** Developed using **AI assisted** methodologies (Natural Language to Code).
+- **Purpose:** Organizing inventory, project deadlines, and historical research for sacred art.
+- **Goal:** Demonstrating how AI can accelerate the delivery of functional, domain-specific business tools.
+
 ---
 
 ### 📈 Current Learning Path
