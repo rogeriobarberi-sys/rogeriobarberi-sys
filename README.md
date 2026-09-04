@@ -74,6 +74,17 @@ A dedicated environment for vehicle data processing and modeling. This project s
 
 ### 🚀 AI-Assisted Development
 
+#### ⚡ [RB Flow Automation — Google Flow & Imagen/VEO Bulk Engine](https://github.com/rogeriobarberi-sys/Flow-Bulk-Extension)
+[![Status: Active Development](https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square)](https://github.com/rogeriobarberi-sys/Flow-Bulk-Extension) [![Version](https://img.shields.io/badge/Version-1.2.0-green?style=flat-square)](https://github.com/rogeriobarberi-sys/Flow-Bulk-Extension) [![Platform](https://img.shields.io/badge/Platform-Chrome_Extension_v3-red?style=flat-square)](https://github.com/rogeriobarberi-sys/Flow-Bulk-Extension)
+
+An advanced Chrome Extension (Manifest V3) engineered for continuous batch processing, automated prompt queueing, dynamic model switching, and automated media downloading on **Google Flow** (VEO 3.1, Omni 1.1 Flash, Imagen 3, and Nano Banana models).
+
+- **Multi-Model & Parameter Automation:** Automates model switching across Imagen variants (*Nano Banana Pro*, *Nano Banana 2/2 Lite*) and VEO video modes (*Omni 1.1 Flash*, *Veo 3.1 Quality/Lite/Fast*), handling custom aspect ratios, resolutions, and durations.
+- **Smart DOM & React State Observer:** Intercepts dynamic web components using MutationObserver and synthetic event dispatching to interact seamlessly with Google Flow's UI.
+- **Automated High-Res Media Downloader:** Detects, isolates, and exports generated images and video streams directly into organized local folders with smart sequential numbering (`001_name.png`).
+- **Resumable Queue & Anti-Rate-Limit Pacing:** Features real-time state persistence, customizable human-like request delays, smart retry handling, and automatic rejection of unrequested video proposals.
+- **Tech Stack:** `JavaScript (ES6+)`, `Chrome Extension API (Manifest V3)`, `MutationObserver API`, `HTML5 / CSS3 (Glassmorphism)`.
+
 #### 🎬 AI-Powered Media Production Pipeline
 ![Status: Production](https://img.shields.io/badge/Status-Production_/_Live-blue?style=flat-square)
 A local-first desktop application that orchestrates a multi-stage media production workflow, unifying several AI services into a single resumable pipeline. Built with **Streamlit** and a modular Python architecture where every stage persists its state to disk — so long-running work can be paused, resumed, and recovered across sessions without loss.
