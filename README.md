@@ -1,6 +1,6 @@
 # Hi there, I'm Rogério Barberi 👋
 
-### ** Data analyst | Data IT Strategist | Business Inteligence **
+### ** IT Executive | IT Strategist | Generative AI & Workflow Automation | Data Science & BI **
 
 Driving strategic business outcomes through a deeply **data-driven** approach built upon 30 years of IT leadership. Throughout my career as an IT Director and Manager, I have engineered structured data indicators, optimized large-scale relational databases, and utilized data analytics to streamline business operations and performance metrics.
 
@@ -13,9 +13,10 @@ Today, I leverage the modern data stack—using **Python automation, SQL, and Da
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
-| **Tools & Platforms** | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| **Automation & AI** | ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Generative AI & Automation** | ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension_Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) ![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Agents_%26_Automation-00599C?style=for-the-badge&logo=probot&logoColor=white) |
+| **Data Science & Analytics** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
+| **Cloud & Tools** | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
 
 ### 💼 Business Strategy & Management
 
